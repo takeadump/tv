@@ -1,4 +1,4 @@
-# 自动获取酒店源  组播源 # 作者 https://github.com/ssili126/tv
+# 自动获取酒店源  # 作者 https://github.com/ssili126/tv
 
 
 使用方法：
