@@ -6,8 +6,11 @@
 1.电视盒子
 
   在看电视直播软件中直接输入以下任一地址即可：
-  
+  本地址
       https://ghproxy.net/https://raw.githubusercontent.com/takeadump/tv/main/itvlist.txt
+  原地址
+      https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
+      https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
   
 2.想自己获取电视直播地址的可采用以下方法：
 
